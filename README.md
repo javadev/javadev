@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/javadev">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javadev&theme=dark&card_width=770&count_private=true&include_all_commits=true" alt="Valentyn's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javadev&theme=dark" alt="Valentyn's GitHub Stats" />
 </a>
